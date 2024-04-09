@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "BMW M4 Front",
+      "image": "1.jpg",
+      "description": "Front view of the BMW M4",
+      "color": "#00008B"
+    },
+    {
+      "name": "BMW M4 Top",
+      "image": "2.jpg",
+      "description": "Top view of the BMW M4",
+      "color": "#0000CD"
+    },
+    {
+      "name": "BMW M4 Rear",
+      "image": "3.jpg",
+      "description": "Rear view of the BMW M4",
+      "color": "#4169E1"
+    },
+    {
+      "name": "BMW M4 Engine",
+      "image": "4.jpg",
+      "description": "Engine view of the BMW M4",
+      "color": "#6495ED"
+    },
+    {
+      "name": "BMW M4 Mirror",
+      "image": "5.jpg",
+      "description": "Mirror view of the BMW M4",
+      "color": "#ADD8E6"
+    }
+  ]
+}
